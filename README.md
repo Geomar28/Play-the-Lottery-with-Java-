@@ -1,4 +1,7 @@
 # Play-the-Lottery-with-Java-
+
+Write a program in Java language, which simulates a Lotto draw.
+
 Assignment Introduction
 
 “Lotto is a simple and fun number draw game in which you can pick any six numbers from 1 to 45. At each draw six random numbers are drawn, along with one bonus number (for a little extra fun)1”. The odds of winning the Lotto are:
@@ -16,8 +19,6 @@ Jackpot: 8,145,060 / 1
 · 3 numbers and the bonus: 579 / 1
 
 · 3 numbers: 45 / 1
-
-In this assignment you will be required to write a program in Java, which simulates a Lotto draw.
 
 Java Assignment - Lotto Draw - Semester 1
 
