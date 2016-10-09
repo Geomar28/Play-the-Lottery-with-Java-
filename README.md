@@ -5,10 +5,15 @@ Assignment Introduction
 Jackpot: 8,145,060 / 1
 
 · 5 numbers and the bonus: 1,392,317 / 1
+
 · 5 numbers: 34,807 / 1
+
 · 4 numbers and the bonus: 14,274 / 1
+
 · 4 numbers: 732 / 1
+
 · 3 numbers and the bonus: 579 / 1
+
 · 3 numbers: 45 / 1
 
 In this assignment you will be required to write a program in Java, which simulates a Lotto draw.
